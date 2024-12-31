@@ -22,8 +22,6 @@
 # The script uses the print function to display messages.
 # The script uses the if __name__ == "__main__": to run the script.
 
-
-
 # Import the necessary modules.
 import subprocess
 import platform
